@@ -1,0 +1,22 @@
+{
+  "name": "cobalt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GsxDavid/cobalt-cli.git"
+  },
+  "keywords": [
+    "CLI",
+    "React",
+    "automation",
+    "development",
+    "tool"
+  ],
+  "author": "Gsx_david",
+  "license": "ISC",
+  "description": "Cobalt CLI: A powerful command-line tool for rapidly setting up React projects with a modern stack, automating configurations, and streamlining development workflows."
+}
